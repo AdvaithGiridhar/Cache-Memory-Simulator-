@@ -1,5 +1,6 @@
 # Cache-Memory-Simulator-
 Basic Cache Simulator has been implemented in C Programming Language
+
 Features of Implemented Cache Simulator
 1. Size of Cache , Main Memory and Block Size are taken as user input
 2. Menu based program to simulate all 3 cache mapping techniques Direct
